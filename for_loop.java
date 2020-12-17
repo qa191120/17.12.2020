@@ -29,7 +29,12 @@ public class Main
         // 1. print all numbers from -10 to 10
         // 2. print all numbers divided by 7 from 7 to 104
         // 3. input number int from user ... print all from 1.. number
-        
+        // 4. input jump, max from user .. print 1 to max with jump
+        //     example:
+        //     max = 30
+        //     jump = 4
+        //     print from 1 to 30 and jump 4 each time
+
 
         System.out.println("Goodbye...");
     }
