@@ -38,12 +38,26 @@ public class Main
                 System.out.println("not zero-one-two-three-four...");
         }
 
-        String number_str = s.nextLine();
-        // switch case from string to number..
-        // "zero" --> print 0
-        // "one" --> print 1
-        // default --> print "unknown"
-
+        String number_str = s.next();
+        switch (number_str) {
+            case "zero":
+                System.out.println(0);
+                break;
+            case "one":
+                System.out.println(1);
+                break;
+            case "two":
+                System.out.println(2);
+                break;
+            case "three":
+                System.out.println(3);
+                break;
+            case "four":
+                System.out.println(4);
+                break;
+            default:
+                System.out.println("unknown");
+        }
 
         System.out.println("Goodbye...");
     }
