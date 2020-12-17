@@ -34,6 +34,15 @@ public class Main
         //     max = 30
         //     jump = 4
         //     print from 1 to 30 and jump 4 each time
+        // 5. *etgar
+        //    8 % 2 == 0 
+        //    9 % 2 == 1
+        //    8 % 3 == 2
+        //    9 % 3 == 0
+        //    input number from user. 
+        //    print 1 to number all numbers which the gien number
+        //         is divided without module
+        //    i.e. for 12:   1, 2, 3, 4, 6, 12
 
 
         System.out.println("Goodbye...");
