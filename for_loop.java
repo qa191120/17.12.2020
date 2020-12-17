@@ -27,7 +27,7 @@ public class Main
         }
 
         // 1. print all numbers from -10 to 10
-        // 2. print all numbers divided by 7 from 7 to 104
+        // 2. print all numbers divided by 7 from 7 to 105
         // 3. input number int from user ... print all from 1.. number
         // 4. input jump, max from user .. print 1 to max with jump
         //     example:
